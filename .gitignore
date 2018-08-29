@@ -1,0 +1,6 @@
+reviewer_comments.txt
+## don't want reviewer comments on github
+*.png
+*.jpg
+*.jpeg
+subfolder_a/
