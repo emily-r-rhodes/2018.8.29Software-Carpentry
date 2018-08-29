@@ -1,3 +1,4 @@
-Data is really cool.
+
+Mike's Data is really cool.
 Subtitle: A line of code. 
 Authors: Me, Myself, & I
