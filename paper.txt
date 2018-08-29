@@ -1,1 +1,5 @@
-Just some stuff about data
+Data is really cool.
+
+
+Subtitle: A line of code. 
+Authors: Me, Myself, & I
